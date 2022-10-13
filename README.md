@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dhruv11011/Banner/blob/main/GitHub%20Banner.gif)](https://dhruvbhatt.io)
+[![MasterHead](https://github.com/dhruv11011/Banner/blob/main/gihub%20banner.gif)](https://dhruvbhatt.io)
 <h1 align="center">Hi 👋, This is Dhruv Bhatt</h1>
 <h3 align="center">A enthusiastic person about cyber security and software developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://github.com/dhruv11011/Banner/blob/main/gif.gif">
