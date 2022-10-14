@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/dhruv11011/Banner/blob/main/gihub%20banner.gif)](https://dhruvbhatt.io)
 <h1 align="center">Hi 👋, This is Dhruv Bhatt</h1>
 <h3 align="center">A enthusiastic person about cyber security and software developer</h3>
-<img align="center" alt="Coding" width="400" src="https://github.com/dhruv11011/Banner/blob/main/gif.gif">
+<img align="center" alt="Coding" width="400" src="https://drive.google.com/drive/u/1/folders/1jv9nQKgDv5n7JNUldCXP6vlyyUJarYvv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv11011&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv11011" /> </p>
 
